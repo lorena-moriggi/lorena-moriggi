@@ -7,14 +7,14 @@
  <tr><td><a href="README_pt.md">Português</a></td></tr>
 </table>
   
-### Me chamado Lorena, sou uma Desenvolvedora Junior do Brasil que ama tecnologia e busca estar sempre em aprendizado. 🚀
+### Me chamado Lorena, sou uma Desenvolvedora Júnior do Brasil, que ama tecnologia e busca estar sempre em aprendizado. 🚀
 ### Estou atualmente disponível para novas oportunidades no mercado de trabalho!
 
 ### 💬 Sobre mim:
 
-- 📚 Eu estudo na UFPR, Engenharia Elétrica com ênfase em Sistemas Embarcados.
+- 📚 Eu estudo Engenharia Elétrica, na UFPR, com ênfase em Sistemas Embarcados.
 - 🌱 Exploro novas áreas de interesse como Machine Learning, Inteligência Artificial, e Inteligência de Negócios.
-- 💡 Realmente acredito que por meio de códigos temos o poder de resolver problemas do cotidiano e assim, ajudar pessoas por todo o Mundo.
+- 💡 Acredito que por meio de códigos temos o poder de resolver problemas do cotidiano e assim contruir um futuro melhor.
 
 ### My work
 - 💻 Venho desenvolvendo experiência em Node.js, React, JavaScript, C++, e um pouco de Python (no processo de aprendizado).
