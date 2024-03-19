@@ -32,6 +32,9 @@
     <a href="https://linkedin.com/in/lorena-moriggi">
       <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
     </a>
+        <a href="https://www.instagram.com/lmoriggi_/">
+      <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" />
+    </a>
   </div>
     <h3>Llanguages ​​and tools I have experience with:</h3>
   </br>
