@@ -8,13 +8,13 @@
 </table>
   
 ### I'm Lorena, a Junior Developer from Brazil who loves technology and learn new things. 🚀
-### I am currently available and actively searching for job opportunities!
+### I'm currently available and actively searching for job opportunities!
 
 ### 💬 About me
 
-- 📚 I study at UFPR, Electrical Engineering with an emphasis on embedded systems
+- 📚 I study at UFPR, Electrical Engineering with an emphasis on Embedded Systems.
 - 🌱 I explore new areas of interest such as Machine Learning, Artificial Intelligence, and Business Intelligence.
-- 💡 I strongly believe that coding has the power to solve problems and help people change the world for the
+- 💡 I strongly believe that coding has the power to solve problems and help people change the world for the better.
 
 ### My work
 - 💻 I have experience in Node.js, React, JavaScript, C++, and a bit of Python (but always looking to learning more).
@@ -36,7 +36,7 @@
       <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="30" width="40" />
     </a>
   </div>
-    <h3>Llanguages ​​and tools I have experience with:</h3>
+    <h3>Languages ​​and tools I have experience with:</h3>
   </br>
   <div align="center">
     <a href="https://skillicons.dev">
